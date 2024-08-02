@@ -26,7 +26,7 @@ def download_image(image_url):
 
 def main():
     csv_file_path = 'bumble_data_clean.csv'  # Ganti dengan path ke file CSV lokal Anda
-    folder_id = 'c037159f-36cb-4372-b0a3-7f049d89c8da'  # Ganti dengan folder ID Anda
+    folder_id = 'c2831423-e8f5-4356-8c4a-eb047b0c6f52'  # Ganti dengan folder ID Anda
     token = '7hbw4ERMXGzuFHtxGVtWjILkmjrYwVtf'  # Ganti dengan token Anda
 
     # Membaca CSV dari file lokal
